@@ -1,0 +1,7 @@
+name: Trollplugin
+version: ${project.version}
+main: me.joran.trollplugin.Main
+authors: [ItsJustJoran]
+description: De TrollPlus plugin
+commands:
+  prank:
